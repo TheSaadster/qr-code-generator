@@ -1,5 +1,6 @@
 # QR Code Generator
 
+#### Project Showcase: https://www.youtube.com/watch?v=ovBsBfQjYH0&ab_channel=Saad%27sCodingProjects
 This Python script generates a QR code for a given URL.
 
 ## Prerequisites
